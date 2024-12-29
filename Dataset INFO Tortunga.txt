@@ -1,0 +1,16 @@
+id_2: Likely a unique identifier for each record in the dataset.
+NAME: The name of the individual.
+USER_ID: A unique identifier for each user, possibly for internal tracking.
+HOURS_DATASCIENCE: The total hours spent on data science-related activities or coursework.
+HOURS_BACKEND: The total hours spent on backend development activities or coursework.
+HOURS_FRONTEND: The total hours spent on frontend development activities or coursework.
+NUM_COURSES_BEGINNER_DATASCIENCE: Number of beginner-level courses completed in data science.
+NUM_COURSES_BEGINNER_BACKEND: Number of beginner-level courses completed in backend development.
+NUM_COURSES_BEGINNER_FRONTEND: Number of beginner-level courses completed in frontend development.
+NUM_COURSES_ADVANCED_DATASCIENCE: Number of advanced-level courses completed in data science.
+NUM_COURSES_ADVANCED_BACKEND: Number of advanced-level courses completed in backend development.
+NUM_COURSES_ADVANCED_FRONTEND: Number of advanced-level courses completed in frontend development.
+AVG_SCORE_DATASCIENCE: The average score achieved in data science courses.
+AVG_SCORE_BACKEND: The average score achieved in backend courses.
+AVG_SCORE_FRONTEND: The average score achieved in frontend courses.
+PROFILE: A categorical field likely representing the user's primary expertise or focus area (e.g., "beginner_front_end" or "advanced_front_end").
